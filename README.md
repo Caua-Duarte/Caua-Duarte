@@ -2,7 +2,7 @@
 - 👀 I’m interested in  to be a web developer 
 - 🌱 I’m currently learning  programing languages how: HTML, CSS, C#
 - 💞️ I’m looking to collaborate on everything, cause I want to learn more and more
-- 📫 You can contact me by email  (caua.duarte.sampaio@outlook.com)! If you wanna learn more about me visit my online perfil:https://sites.google.com/view/caua-duarte-sampaio/sobre-mim
+- 📫 You can contact me by email  (caua.duarte.sampaio@outlook.com)! If you wanna know more about me visit my online perfil:https://sites.google.com/view/caua-duarte-sampaio/sobre-mim
 
 <!---
 Caua-Duarte/Caua-Duarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
