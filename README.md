@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Caua-Duarte
+## 👋 Hey there, I’m @Caua-Duarte
 
 - 👀 I’m interested in to be a web developer 
 - 🌱 I’m currently learning  programing languages how: HTML, CSS, C#
