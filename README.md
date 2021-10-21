@@ -10,8 +10,8 @@ If you want to know more about me <a href="https://cauaduarte.netlify.app/"> cli
 
  <div align="center" text="center">
   <a href="https://github.com/Caua-Duarte">
-  <img width="500px" height"700px" src="https://github-readme-stats.vercel.app/api?username=Caua-Duarte&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="400px" height"700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Duarte&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="400px" height"600px" src="https://github-readme-stats.vercel.app/api?username=Caua-Duarte&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="300px" height"600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Duarte&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
  ---
